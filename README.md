@@ -247,11 +247,14 @@ These weights are used to guide the fusion network during training. The released
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{li2026amgfuse,
-  title={Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction},
-  author={Li, Xilai and Li, Xiaosong and Tan, Haishu and Ye, Tao and Li, Huafeng and Wang, Hongbin},
-  booktitle={European Conference on Computer Vision (ECCV)},
-  year={2026}
+@misc{li2026multimodalityimagefusionadverse,
+      title={Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction}, 
+      author={Xilai Li and Xiaosong Li and Haishu Tan and Tao Ye and Huafeng Li and Hongbin Wang},
+      year={2026},
+      eprint={2606.26812},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.26812}, 
 }
 ```
 
