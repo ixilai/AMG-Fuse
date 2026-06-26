@@ -12,7 +12,7 @@
 <sup>3</sup>Kunming University of Science and Technology, Kunming, China  
 <sup>†</sup>Corresponding author
 
-[[Paper](https://scholar.google.com/citations?user=qJlEhUAAAAAJ&hl=zh-CN)] | [[Dataset](https://ixilai.github.io/AWMM-100K/)]
+[[Paper](https://arxiv.org/pdf/2606.26812)] | [[Dataset](https://ixilai.github.io/AWMM-100K/)]
 
 ---
 
